@@ -14,12 +14,12 @@ class LineItemTest {
         this.lineItem1 = new LineItem(1.0, "description1");
     }
 
-//    @Test
-//    void testConstructor() {
-//        assertEquals(10001, this.lineItem1.getLineItemId());
-//        assertEquals(1.0, this.lineItem1.getAmount());
-//        assertEquals("description1", this.lineItem1.getDescription());
-//    }
+    @Test
+    void testConstructor() {
+        assertEquals(10004, this.lineItem1.getLineItemId());
+        assertEquals(1.0, this.lineItem1.getAmount());
+        assertEquals("description1", this.lineItem1.getDescription());
+    }
 
     @Test
     void copyConstructor() {
