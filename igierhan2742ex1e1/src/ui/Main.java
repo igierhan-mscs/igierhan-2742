@@ -22,6 +22,8 @@ public class Main {
                 System.out.println("\t\t" + invoice.toShortString());
             }
             System.out.println();
+
+
         }
     }
 }

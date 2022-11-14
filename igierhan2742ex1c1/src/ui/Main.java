@@ -51,5 +51,6 @@ public class Main {
         for (int i = 0; i < lineItems.size(); i++) {
             System.out.println("\tLineItem" + i + " = " + lineItems.get(i));
         }
+
     }
 }

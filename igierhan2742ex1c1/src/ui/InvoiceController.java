@@ -129,7 +129,9 @@ public class InvoiceController {
 
         int index = invoicesComboBox.getSelectionModel().getSelectedIndex();
         Invoice invoice = this.invoices.get(index);
+
         invoice.setStatus(Integer.parseInt(this.statusTextField.getText()));
+
         GDate invoiceDate = new GDate(
                 Integer.parseInt(this.invoiceDateTextField.getText().substring(0, 4)),
                 Integer.parseInt(this.invoiceDateTextField.getText().substring(5, 7)),
