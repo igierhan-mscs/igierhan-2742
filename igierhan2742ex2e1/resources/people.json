@@ -1,0 +1,210 @@
+{
+  "people":
+  [
+    {
+      "subclass": "person",
+      "personId":101,
+      "lastName":"Word",
+      "firstName":"Sheela",
+      "userName":"sheela.word"
+    },
+    {
+      "subclass": "tenant",
+      "personId":102,
+      "lastName":"Sandberg",
+      "firstName":"Mikael",
+      "userName":"mikael.sandberg",
+      "birthDate":"1992/02/02",
+      "ssn":"222-22-2222",
+      "phone":"222-222-2223",
+      "employer":"Minnesota State College Southeast",
+      "occupation":"Instructor",
+      "grossPay":2222.22,
+      "employmentStartDate":"2012/02/02"
+    },
+    {
+      "subclass": "contractAdministrator",
+      "personId":104,
+      "lastName":"Rao",
+      "firstName":"Arvind",
+      "userName":"arvind.rao",
+      "birthDate":"1994/04/04",
+      "ssn":"444-44-4444",
+      "phone":"444-444-4444",
+      "employmentStartDate":"2014/04/04",
+      "monthlyRate":400.0
+    },
+    {
+      "subclass": "hourlyAdministrator",
+      "personId":105,
+      "lastName":"Reisner",
+      "firstName":"Linda",
+      "userName":"linda.reisner",
+      "birthDate":"1995/05/05",
+      "ssn":"555-55-5555",
+      "phone":"555-555-5555",
+      "employmentStartDate":"2015/05/05",
+      "hourlyRate":50.0,
+      "timeCards":[
+        {"id":10001,"startDateTime":"2019/11/12 08:00AM","endDateTime":"2019/11/12 06:00PM"},
+        {"id":10002,"startDateTime":"2019/11/13 08:00AM","endDateTime":"2019/11/13 06:00PM"},
+        {"id":10003,"startDateTime":"2019/11/14 08:00AM","endDateTime":"2019/11/14 06:00PM"},
+        {"id":10004,"startDateTime":"2019/11/15 08:00AM","endDateTime":"2019/11/15 06:00PM"},
+        {"id":10005,"startDateTime":"2019/11/16 08:00AM","endDateTime":"2019/11/16 06:00PM"}
+      ]
+    },
+    {
+      "subclass": "hourlyAdministrator",
+      "personId":105,
+      "lastName":"aaaaa",
+      "firstName":"aaaa",
+      "userName":"aaaa.aaaaa",
+      "birthDate":"1995/05/05",
+      "ssn":"555-55-5555",
+      "phone":"555-555-5555",
+      "employmentStartDate":"2015/05/05",
+      "hourlyRate":50.0,
+      "timeCards":[
+        {"id":10001,"startDateTime":"2019/11/12 08:00AM","endDateTime":"2019/11/12 06:00PM"},
+        {"id":10002,"startDateTime":"2019/11/13 08:00AM","endDateTime":"2019/11/13 06:00PM"},
+        {"id":10003,"startDateTime":"2019/11/14 08:00AM","endDateTime":"2019/11/14 06:00PM"},
+        {"id":10004,"startDateTime":"2019/11/15 08:00AM","endDateTime":"2019/11/15 06:00PM"},
+        {"id":10005,"startDateTime":"2019/11/16 08:00AM","endDateTime":"2019/11/16 06:00PM"}
+      ]
+    },
+    {
+      "subclass": "tenant",
+      "personId":106a,
+      "lastName":"eeeee",
+      "firstName":"eeee",
+      "userName":"eeee.eeeee",
+      "birthDate":"1992/02/02",
+      "ssn":"222-22-2222",
+      "phone":"222-222-2223",
+      "employer":"Minnesota State College Southeast",
+      "occupation":"Instructor",
+      "grossPay":2222.22,
+      "employmentStartDate":"2012/02/02"
+    },
+    {
+      "subclass": "tenant",
+      "personId":106,
+      "lastName":"fffff",
+      "firstName":"ffff",
+      "userName":"ffff.fffff",
+      "birthDate":"1992/02/aa",
+      "ssn":"222-22-2222",
+      "phone":"222-222-2223",
+      "employer":"Minnesota State College Southeast",
+      "occupation":"Instructor",
+      "grossPay":2222.22,
+      "employmentStartDate":"2012/02/02"
+    },
+    {
+      "subclass": "tenant",
+      "personId":106,
+      "lastName":"ggggg",
+      "firstName":"gggg",
+      "userName":"gggg.ggggg",
+      "birthDate":"1992/02/40",
+      "ssn":"222-22-2222",
+      "phone":"222-222-2223",
+      "employer":"Minnesota State College Southeast",
+      "occupation":"Instructor",
+      "grossPay":2222.22,
+      "employmentStartDate":"2012/02/02"
+    },
+    {
+      "subclass": "tenant",
+      "personId":106,
+      "blastName":"ggggg",
+      "firstName":"gggg",
+      "userName":"gggg.ggggg",
+      "birthDate":"1992/02/40",
+      "ssn":"222-22-2222",
+      "phone":"222-222-2223",
+      "employer":"Minnesota State College Southeast",
+      "occupation":"Instructor",
+      "grossPay":2222.22,
+      "employmentStartDate":"2012/02/02"
+    },
+    {
+      "subclass": "person",
+      "personId":100,
+      "lastName":"hhhh",
+      "firstName":"hhhhh",
+      "userName":"hhhh.hhhhh"
+    },
+    {
+      "subclass": "person",
+      "personId":107,
+      "lastName":"hhhhh",
+      "firstName":"hh",
+      "userName":"hh.hhhhh"
+    },
+    {
+      "subclass": "person",
+      "personId":108,
+      "lastName":"i",
+      "firstName":"iiii",
+      "userName":"iiii.i"
+    },
+    {
+      "subclass": "person",
+      "personId":109,
+      "lastName":"kkkkk",
+      "firstName":"kkkk",
+      "userName":"admin"
+    },
+    {
+      "subclass": "contractAdministrator",
+      "personId":110,
+      "lastName":"11111",
+      "firstName":"11",
+      "userName":"11.11111",
+      "birthDate":"1994/04/04",
+      "ssn":"444-44-4444",
+      "phone":"444-444-4444",
+      "employmentStartDate":"2014/04/04",
+      "monthlyRate":400.0
+    },
+    {
+      "subclass": "hourlyAdministrator",
+      "personId":111,
+      "lastName":"mmmmm",
+      "firstName":"mmmm",
+      "userName":"mmmm.mmmmm",
+      "birthDate":"1995/05/05",
+      "ssn":"555-55-5555",
+      "phone":"555-555-5555",
+      "employmentStartDate":"2015/05/05",
+      "hourlyRate":50.0,
+      "timeCards":[
+        {"id":10001,"startDateTime":"2019/11/12 08:00AM","endDateTime":"2019/11/12 06:00PM"},
+        {"id":10002,"startDateTime":"2019/11/13 08:00AM","endDateTime":"2019/11/13 08:00AM"},
+        {"id":10003,"startDateTime":"2019/11/14 08:00AM","endDateTime":"2019/11/14 06:00PM"},
+        {"id":10004,"startDateTime":"2019/11/15 08:00AM","endDateTime":"2019/11/15 06:00PM"},
+        {"id":10005,"startDateTime":"2019/11/16 08:00AM","endDateTime":"2019/11/16 06:00PM"}
+      ]
+    },
+    {
+      "subclass": "hourlyAdministrator",
+      "personId":112,
+      "lastName":"nnnnn",
+      "firstName":"nnnn",
+      "userName":"nnnn.nnnnn",
+      "birthDate":"1995/05/05",
+      "ssn":"555-55-5555",
+      "phone":"555-555-5555",
+      "employmentStartDate":"2015/05/05",
+      "hourlyRate":50.0,
+      "timeCards":[
+        {"id":10001,"startDateTime":"2019/11/12 08:00AM","endDateTime":"2019/11/12 06:00PM"},
+        {"id":10002,"startDateTime":"2019/11/13 08:00PM","endDateTime":"2019/11/13 06:00PM"},
+        {"id":10003,"startDateTime":"2019/11/14 08:00AM","endDateTime":"2019/11/14 06:00PM"},
+        {"id":10004,"startDateTime":"2019/11/15 08:00AM","endDateTime":"2019/11/15 06:00PM"},
+        {"id":10005,"startDateTime":"2019/11/16 08:00AM","endDateTime":"2019/11/16 06:00PM"}
+      ]
+    }
+  ]
+}
